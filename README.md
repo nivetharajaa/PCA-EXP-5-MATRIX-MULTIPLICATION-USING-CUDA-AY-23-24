@@ -2,7 +2,7 @@
 
 <h3>ENTER YOUR NAME:Nivetha A</h3>
 <h3>ENTER YOUR REGISTER NO:212222230101</h3>
-<h3>EX. NO</h3>
+<h3>EX. NO:5</h3>
 <h3>DATE</h3>
 <h1> <align=center> MATRIX MULTIPLICATION USING CUDA </h3>
   Implement Matrix Multiplication using GPU.</h3>
@@ -207,4 +207,4 @@ int main()
 
 
 ## RESULT:
-Thus the program has been executed by using CUDA to mulptiply two matrices. It is observed that there are variations in host and device elapsed time. Device took ______________time and host took ___________time.
+Thus the program has been executed by using CUDA to mulptiply two matrices. It is observed that there are variations in host and device elapsed time. Device took 0.000224 time and host took 0.22631 time.
